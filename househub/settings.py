@@ -145,6 +145,7 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-#MEDIA SETTINGS
+# Media Settings 
 MEDIA_ROOT = 'media'
 MEDIA_URL = '/media/'
+
