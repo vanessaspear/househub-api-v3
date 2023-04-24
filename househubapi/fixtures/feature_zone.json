@@ -1,0 +1,30 @@
+[
+    {
+        "model": "househubapi.featurezone",
+        "pk": 1,
+        "fields": {
+            "zone": "Interior home"
+        }
+    },
+    {
+        "model": "househubapi.featurezone",
+        "pk": 2,
+        "fields": {
+            "zone": "Exterior home"
+        }
+    },
+    {
+        "model": "househubapi.featurezone",
+        "pk": 3,
+        "fields": {
+            "zone": "Lot"
+        }
+    },
+    {
+        "model": "househubapi.featurezone",
+        "pk": 4,
+        "fields": {
+            "zone": "Landscaping"
+        }
+    }
+]
