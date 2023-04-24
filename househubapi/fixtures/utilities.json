@@ -1,0 +1,72 @@
+[
+    {
+        "model": "househubapi.utility",
+        "pk": 1,
+        "fields": {
+            "type": "Electricity"
+        }
+    },
+    {
+        "model": "househubapi.utility",
+        "pk": 2,
+        "fields": {
+            "type": "Water"
+        }
+    },
+    {
+        "model": "househubapi.utility",
+        "pk": 3,
+        "fields": {
+            "type": "Sewer"
+        }
+    },
+    {
+        "model": "househubapi.utility",
+        "pk": 4,
+        "fields": {
+            "type": "Natural gas"
+        }
+    },
+    {
+        "model": "househubapi.utility",
+        "pk": 5,
+        "fields": {
+            "type": "Internet"
+        }
+    },
+    {
+        "model": "househubapi.utility",
+        "pk": 6,
+        "fields": {
+            "type": "Cable/Satellite TV"
+        }
+    },
+    {
+        "model": "househubapi.utility",
+        "pk": 7,
+        "fields": {
+            "type": "Telephone"
+        }
+    },
+    {
+        "model": "househubapi.utility",
+        "pk": 8,
+        "fields": {
+            "type": "Trash/Recycling"
+        }
+    }, 
+    {
+        "model": "househubapi.utility",
+        "pk": 9,
+        "fields": {
+            "type": "Security"
+        }
+    },
+    {
+        "model": "househubapi.utility",
+        "pk": 10,
+        "fields": {
+            "type": "Lawn & Landscaping Care"
+        }
+    }
+]

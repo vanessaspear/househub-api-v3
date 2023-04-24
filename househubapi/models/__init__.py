@@ -3,3 +3,17 @@ from .appliance_warranty import ApplianceWarranty
 from .flooring_type import FlooringType
 from .flooring import Flooring
 from .tile_features import TileFeatures
+from .appliance_custom_feature import ApplianceCustomFeature
+from .appliance_type import ApplianceType
+from .appliance import Appliance
+from .contractor_specialty import ContractorSpecialty
+from .contractor import Contractor
+from .feature_area import FeatureArea
+from .feature_zone import FeatureZone
+from .home_contractor import HomeContractor
+from .home_feature_area import HomeFeatureArea
+from .home import Home
+from .household import Household
+from .specialty import Specialty
+from .utility_provider import UtilityProvider
+from .utility import Utility

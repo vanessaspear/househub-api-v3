@@ -1,0 +1,184 @@
+[
+    {
+        "model": "househubapi.featurearea",
+        "pk": 1,
+        "fields": {
+            "area": "Bedroom 1"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 2,
+        "fields": {
+            "area": "Bedroom 2"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 3,
+        "fields": {
+            "area": "Bedroom 3"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 4,
+        "fields": {
+            "area": "Bedroom 4"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 5,
+        "fields": {
+            "area": "Bedroom 5"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 6,
+        "fields": {
+            "area": "Office"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 7,
+        "fields": {
+            "area": "Bathroom 1"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 8,
+        "fields": {
+            "area": "Bathroom 2"
+        }
+    }, 
+    {
+        "model": "househubapi.featurearea",
+        "pk": 9,
+        "fields": {
+            "area": "Bathroom 3"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 10,
+        "fields": {
+            "area": "Bathroom 4"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 11,
+        "fields": {
+            "area": "Kitchen"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 12,
+        "fields": {
+            "area": "Laundry room"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 13,
+        "fields": {
+            "area": "Dining room"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 14,
+        "fields": {
+            "area": "Garage"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 15,
+        "fields": {
+            "area": "Living room"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 16,
+        "fields": {
+            "area": "Family room"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 17,
+        "fields": {
+            "area": "Closet 1"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 18,
+        "fields": {
+            "area": "Closet 2"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 19,
+        "fields": {
+            "area": "Closet 3"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 20,
+        "fields": {
+            "area": "Pantry"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 21,
+        "fields": {
+            "area": "Attic"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 22,
+        "fields": {
+            "area": "Basement"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 23,
+        "fields": {
+            "area": "Pool"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 24,
+        "fields": {
+            "area": "Patio"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 25,
+        "fields": {
+            "area": "Workshop"
+        }
+    },
+    {
+        "model": "househubapi.featurearea",
+        "pk": 26,
+        "fields": {
+            "area": "Playroom"
+        }
+    }
+]

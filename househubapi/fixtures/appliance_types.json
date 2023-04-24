@@ -1,0 +1,136 @@
+[
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 1,
+        "fields": {
+            "type": "Refrigerator"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 2,
+        "fields": {
+            "type": "Stove/Oven"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 3,
+        "fields": {
+            "type": "Microwave"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 4,
+        "fields": {
+            "type": "Dishwasher"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 5,
+        "fields": {
+            "type": "Washing Machine"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 6,
+        "fields": {
+            "type": "Clothes Dryer"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 7,
+        "fields": {
+            "type": "Vacuum cleaner"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 8,
+        "fields": {
+            "type": "Coffee maker"
+        }
+    }, 
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 9,
+        "fields": {
+            "type": "Air conditioner"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 10,
+        "fields": {
+            "type": "Heater/Furnace"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 11,
+        "fields": {
+            "type": "Sprinklers"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 12,
+        "fields": {
+            "type": "Water heater"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 13,
+        "fields": {
+            "type": "Water filtration system"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 14,
+        "fields": {
+            "type": "Humidifier"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 15,
+        "fields": {
+            "type": "Dehumidifier"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 16,
+        "fields": {
+            "type": "Deep freezer"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 16,
+        "fields": {
+            "type": "Grill"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 16,
+        "fields": {
+            "type": "Smoker"
+        }
+    },
+    {
+        "model": "househubapi.appliancetype",
+        "pk": 16,
+        "fields": {
+            "type": "Lawn mower"
+        }
+    }
+
+]
