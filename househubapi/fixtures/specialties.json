@@ -1,0 +1,135 @@
+[
+    {
+        "model": "househubapi.specialty",
+        "pk": 1,
+        "fields": {
+            "type": "General Contractor"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 2,
+        "fields": {
+            "type": "Electrician"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 3,
+        "fields": {
+            "type": "Plumber"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 4,
+        "fields": {
+            "type": "HVAC"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 5,
+        "fields": {
+            "type": "Roofing"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 6,
+        "fields": {
+            "type": "Flooring"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 7,
+        "fields": {
+            "type": "Masonry"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 8,
+        "fields": {
+            "type": "Painting"
+        }
+    }, 
+    {
+        "model": "househubapi.specialty",
+        "pk": 9,
+        "fields": {
+            "type": "Drywall"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 10,
+        "fields": {
+            "type": "Lawncare"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 11,
+        "fields": {
+            "type": "Landscaping"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 12,
+        "fields": {
+            "type": "Concrete"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 13,
+        "fields": {
+            "type": "Carpentry"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 14,
+        "fields": {
+            "type": "Siding"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 15,
+        "fields": {
+            "type": "Fencing"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 16,
+        "fields": {
+            "type": "Window and door"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 17,
+        "fields": {
+            "type": "Remodeling"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 18,
+        "fields": {
+            "type": "Solar"
+        }
+    },
+    {
+        "model": "househubapi.specialty",
+        "pk": 19,
+        "fields": {
+            "type": "Demolition"
+        }
+    }
+]

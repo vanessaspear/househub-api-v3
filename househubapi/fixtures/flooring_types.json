@@ -1,0 +1,100 @@
+[
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 1,
+        "fields": {
+            "type": "Hardwood"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 2,
+        "fields": {
+            "type": "Laminate"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 3,
+        "fields": {
+            "type": "Vinyl"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 4,
+        "fields": {
+            "type": "Tile"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 5,
+        "fields": {
+            "type": "Carpet"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 6,
+        "fields": {
+            "type": "Cork"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 7,
+        "fields": {
+            "type": "Bamboo"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 8,
+        "fields": {
+            "type": "Engineered Hardwood"
+        }
+    }, 
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 9,
+        "fields": {
+            "type": "Stone"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 10,
+        "fields": {
+            "type": "Linoleum"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 11,
+        "fields": {
+            "type": "Concrete"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 12,
+        "fields": {
+            "type": "Rubber"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 13,
+        "fields": {
+            "type": "Terrazzo"
+        }
+    },
+    {
+        "model": "househubapi.flooringtype",
+        "pk": 14,
+        "fields": {
+            "type": "Travertine"
+        }
+    }
+]
