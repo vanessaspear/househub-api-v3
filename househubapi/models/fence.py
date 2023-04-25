@@ -2,12 +2,12 @@ from django.db import models
 from .home_feature_area import HomeFeatureArea
 
 class Fence(models.Model):
-    home_feature_area = models.ForeignKey(HomeFeatureArea, on_delete=CASCADE)
-    width = models.FloatField()
-    height = models.FloatField()
-    style = models.CharField(max_length=150)
-    material = models.CharField(max_length=150)
-    paint_make = models.CharField(max_length=250)
-    paint_model = models.CharField(max_length=100)
-    paint_color = models.CharField(max_length=100)
+    home_feature_area = models.ForeignKey(HomeFeatureArea, on_delete=models.CASCADE)
+    width = models.FloatField(null=True, blank=True)
+    height = models.FloatField(null=True, blank=True)
+    style = models.CharField(null=True, blank=True, max_length=150)
+    material = models.CharField(null=True, blank=True, max_length=150)
+    finish_manufacturer = models.CharField(null=True, blank=True, max_length=250)
+    finish_product = models.CharField(null=True, blank=True, max_length=100)
+    finish_color = models.CharField(null=True, blank=True, max_length=100)
     

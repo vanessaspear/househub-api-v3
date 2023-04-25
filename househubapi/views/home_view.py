@@ -5,7 +5,7 @@ from rest_framework import serializers, status
 from django.contrib.auth.models import User
 from househubapi.models import Home
 
-class HouseView(ViewSet):
+class HomeView(ViewSet):
     """HouseHub Home view"""
 
     def retrieve(self, request, pk):
