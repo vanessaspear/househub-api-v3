@@ -3,6 +3,16 @@ from .appliance_warranty import ApplianceWarranty
 from .flooring_type import FlooringType
 from .flooring import Flooring
 from .tile_features import TileFeatures
+from .carpet_features import CarpetFeatures
+from .hardwood_features import HardwoodFeatures
+from .smoke_detector import SmokeDetector
+from .paint import Paint
+from .lighting import Lighting
+from .fire_extinguisher import FireExtinguisher
+from .roof import Roof
+from .pool import Pool
+from .fence import Fence
+from .grass import Grass
 from .appliance_custom_feature import ApplianceCustomFeature
 from .appliance_type import ApplianceType
 from .appliance import Appliance
